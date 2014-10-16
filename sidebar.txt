@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apj:home|Door43 (apj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apj|d43-apj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apj/archive/master.zip|d43-apj.zip]]
+
+**Recent Changes**
+{{changes>ns = apj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apj|Ethnologue data]]
+
